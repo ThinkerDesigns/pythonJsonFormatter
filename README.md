@@ -1,21 +1,21 @@
 # pythonJsonFormatter
 
-##Instructions
+## Instructions
 
-*git clone https://github.com/DSBUSA/pythonJsonFormatter.git
+* git clone https://github.com/DSBUSA/pythonJsonFormatter.git
 
-*cd pythonjsonFormatter
+* cd pythonjsonFormatter
 
-*python pythonJsonFormatter.py
+* python pythonJsonFormatter.py
 
-##Optional
+## Optional
 
-###Only if JSON library's haven't been imported yet
+### Only if JSON library's haven't been imported yet
 
-####Python
+#### Python
 
-*pip install json
+* pip install json
 
-####Python 3
+#### Python 3
 
-*pip3 install json
+* pip3 install json
